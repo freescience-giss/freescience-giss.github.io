@@ -1,4 +1,7 @@
-<p align="center">
+---
+layout: blank
+title: Home
+---
   
 ![Poster of the GISS building with "Lease cancelled by DOGE" stamped over it.](poster.png)
 
@@ -20,4 +23,3 @@
 
 + [Godfather of climate science decries Trump plan to shut NASA lab above Seinfeld diner: ‘It’s crazy’](https://www.theguardian.com/environment/2025/may/21/nasa-giss-lab-trump-shut-down-james-hansen) — Guardian
 
-</p>
