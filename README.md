@@ -1,6 +1,5 @@
 ---
-layout: blank
-title: Home
+title: Freescience GISS
 ---
 
 ![Poster of the GISS building with "Lease cancelled by DOGE" stamped over it.](/poster.png)
